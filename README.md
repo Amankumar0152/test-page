@@ -38,3 +38,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+
+# 🧪 Terrapix (Test Page)
+
+This is a **test version of Terrapix**, created to experiment with functions, layouts, and API integrations before launching the final wallpaper website.
+
+## 🔍 Purpose
+- Testing UI/UX components  
+- Checking function behaviors (download, preview, responsiveness)  
+- Debugging and experimenting before production  
+
+## 🛠️ Tech Used
+- HTML  
+- CSS  
+- JavaScript  
+
+## 🚀 Next Steps
+- Expand into a full wallpaper gallery site  
+- Add Cloudinary for fast image hosting  
+- Make pages dynamic with Next.js + Tailwind CSS
